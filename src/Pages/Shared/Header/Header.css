@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(31, 8, 53);
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin:0 10px;
+}
+nav a:hover{
+    color: brown;
+}
